@@ -1,0 +1,27 @@
+{
+  "name": "async-result",
+  "version": "1.0.0",
+  "description": "Async result driver for javascript applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadhack/async-result.git"
+  },
+  "keywords": [
+    "result",
+    "vadhack",
+    "javascript",
+    "ok",
+    "false",
+    "error"
+  ],
+  "author": "Valentín Arámbulo Díaz <valentin.arambulo@gmail.com> (http://www.vadhack.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadhack/async-result/issues"
+  },
+  "homepage": "https://github.com/vadhack/async-result#readme"
+}
